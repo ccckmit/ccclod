@@ -1,0 +1,16 @@
+{
+  "name": "ccclod",
+  "version": "0.0.2",
+  "description": "I made a lodash of myself for fun !",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "lodash",
+    "utility",
+    "library"
+  ],
+  "author": "ccc",
+  "license": "BSD-2-Clause"
+}
